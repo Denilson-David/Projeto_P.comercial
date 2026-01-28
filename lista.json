@@ -2,42 +2,42 @@
   {
   "nome":"Fraldinha",
   "descricao":"Carne macia e fácil para desfiar",
-  "preco":"37.00" 
+  "preco":"37.00", 
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/fraldinha.jpg"
   },
   
   {
   "nome":"Alcatra",
   "descricao":"Corte versátil e macio, ideal para grelha, bife ou assados.",
-  "preco":"34.00" 
+  "preco":"34.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/alcatra.png"
   },
   
   {
   "nome":"Contra-filé",
   "descricao":"Carne macia com gordura lateral que garante sabor.",
-  "preco":"38.00" 
+  "preco":"38.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/contra-file.jpg"
   },
 
   {
   "nome":"Coxão Mole",
   "descricao":"Corte macio, bom para bifes, assados e refogados.",
-  "preco":"31.00" 
+  "preco":"31.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/contra-file.jpg"
   },
 
   {
   "nome":"Coxão Duro",
   "descricao":"Carne mais firme, ideal para cozimentos longos, como ensopados e carnes de panela.",
-  "preco":"28.00" 
+  "preco":"28.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/COXAO-DURO.jpeg"
   },
 
   {
   "nome":"Acém",
   "descricao":"Corte dianteiro com boa quantidade de colágeno, excelente para cozidos, carne moída e hambúrgueres.",
-  "preco":"28.00"
+  "preco":"28.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/Acem.jpg"
   }
 
