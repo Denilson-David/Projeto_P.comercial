@@ -1,7 +1,39 @@
-{
+[
+  {
   "nome":"Fraldinha",
   "descricao":"Carne macia e fácil para desfiar",
-  "preco":"10"
-
+  "preco":"37.00" 
+  },
   
-}
+  {
+  "nome":"Alcatra",
+  "descricao":"Corte versátil e macio, ideal para grelha, bife ou assados.",
+  "preco":"34.00" 
+  },
+  
+  {
+  "nome":"Contra-filé",
+  "descricao":"Carne macia com gordura lateral que garante sabor. Muito comum em bifes e grelhados.",
+  "preco":"38.00" 
+  },
+
+  {
+  "nome":"Coxão Mole",
+  "descricao":"Corte macio, bom para bifes, assados e refogados.",
+  "preco":"31.00" 
+  },
+
+  {
+  "nome":"Coxão Duro",
+  "descricao":"Carne mais firme, ideal para cozimentos longos, como ensopados e carnes de panela.",
+  "preco":"28.00" 
+  },
+
+  {
+  "nome":"Acém",
+  "descricao":"Corte dianteiro com boa quantidade de colágeno, excelente para cozidos, carne moída e hambúrgueres.",
+  "preco":"28.00" 
+  },
+
+
+]
