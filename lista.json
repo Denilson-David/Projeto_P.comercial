@@ -39,7 +39,13 @@
   "descricao":"Corte dianteiro com boa quantidade de colágeno, excelente para cozidos, carne moída e hambúrgueres.",
   "preco":"28.00",
   "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/Acem.jpg"
-  }
+  },
 
+  {
+  "nome":"Picanha",
+  "descricao":"maciez, suculência e sabor intenso. Preferida para churrascos, assada inteira ou em fatias.",
+  "preco":"28.00",
+  "imagem":"https://raw.githubusercontent.com/Denilson-David/Projeto_P.comercial/refs/heads/main/Imagens/picanha.jpg"
+  }
 
 ]
